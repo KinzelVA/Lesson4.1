@@ -5,7 +5,7 @@ if a > b:
 elif b < a:
     print ("b больше чем a")#добавлен пробел
 else:
-    print("a равно b")
+    print("Another value")
 print("это нам не нужно")
 
 
